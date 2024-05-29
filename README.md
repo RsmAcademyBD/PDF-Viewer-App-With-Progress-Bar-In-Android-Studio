@@ -235,4 +235,5 @@ Button button, button2, button3, button4;
     }
 }
 ```
-## Part 1: https://youtu.be/B5M3gLnN3sc?si=mx6CFTyhzrRC60zy
+
+[![Part 1](https://img.youtube.com/vi/B5M3gLnN3sc/0.jpg)](https://www.youtube.com/watch?v=B5M3gLnN3sc)
